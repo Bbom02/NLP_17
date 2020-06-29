@@ -10,6 +10,7 @@
 
 - 첫 번째 과제: http://aidev.co.kr/chatbotdeeplearning/8709
 - 두 번째 과제: https://github.com/yashsharan/Multi-Class-sentiment-analysis
+                https://github.com/Nirvan101/Sentiment-Analysis-
 
 ### 실행 방법
 
